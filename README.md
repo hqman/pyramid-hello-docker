@@ -2,9 +2,11 @@
 #A Pyramid Demo App with Docker
 
 ##usage
+
 docker build -t hellodocker github.com/hqman/pyramid-hello-docker
+
 docker run -d -p 8080:8080 hellodocker
 
 ##learn from here
-http://www.slideshare.net/waitingkuo0527/shipping-python-project-by-docker
+http://www.slideshare.net/waitingkuo0527/shipping-python-project-by-dockers
 
